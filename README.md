@@ -12,7 +12,8 @@ Predictive maintenance evaluates the condition of equipment by performing online
 ## Model Trainig and Evaluation Steps Involved:
 
 ### Started with importing basic necessary libraries.
-- Libraries like pandas, numpy, matplotlib, seaborn, train_test_split, models and evaluation metrics.
+- Libraries like pandas, numpy, matplotlib, seaborn.
+- Imported remaining Libraries where ever required.
 ### Dataset Details
 - Total number of rows in data: 18398
 - Total number of columns: 62
